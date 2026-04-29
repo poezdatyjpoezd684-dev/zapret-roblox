@@ -512,3 +512,5 @@ telegram-cdn.org
 usercontent.dev
 tgram.org
 torg.org
+roblox.com
+css.rbxcdn.com
